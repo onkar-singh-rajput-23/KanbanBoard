@@ -1,0 +1,103 @@
+.kanban-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  transition: box-shadow 0.3s ease;
+}
+
+.kanban-card:hover {
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.card-id {
+  font-size: 14px;
+  font-weight: bold;
+  color: #757575;
+}
+
+.user-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #e0e0e0;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333333;
+  margin-bottom: 16px;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+}
+
+.priority-image {
+  width: 24px;
+  height: 24px;
+}
+
+.card-priority {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+}
+
+.card-tag {
+  font-size: 14px;
+  font-weight: 500;
+  color: #757575;
+  padding: 4px 8px;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.feature-image {
+  height: 10px;
+  width: 10px;
+  padding: 2px;
+  display: block;
+  margin: auto;
+  position: relative;
+}
+
+.container {
+  display: flex;
+  align-items: center; /* Vertically aligns items in the center */
+}
+
+.title-image {
+  height: 12px;
+  width: 12px;
+  margin-right: 10px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 16px;
+}

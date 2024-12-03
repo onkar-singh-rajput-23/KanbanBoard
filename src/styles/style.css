@@ -1,0 +1,95 @@
+/* Fixed-height header */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #007bff;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.display-button {
+  background-color: #ffffff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.display-button img {
+  height: 16px;
+  width: 16px;
+}
+
+/* Floating card for controls */
+.floating-card {
+  position: absolute;
+  top: 70px; /* Place near the button */
+  left: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 1001;
+  width: 150px;
+}
+
+.dropdown-container {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdown-container label {
+  font-size: 14px;
+  padding: auto;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.floating-card select {
+  padding: 5px;
+  padding-left: 10px;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: "";
+}
+
+.kanban-board {
+  margin-top: 80px; /* Space for fixed header */
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* Kanban Column Styles */
+.kanban-column {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.kanban-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
