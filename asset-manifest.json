@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/KanbanBoard/static/css/main.0f819f07.chunk.css",
+    "main.js": "/KanbanBoard/static/js/main.7ee7403f.chunk.js",
+    "main.js.map": "/KanbanBoard/static/js/main.7ee7403f.chunk.js.map",
+    "runtime~main.js": "/KanbanBoard/static/js/runtime~main.dfed13b4.js",
+    "runtime~main.js.map": "/KanbanBoard/static/js/runtime~main.dfed13b4.js.map",
+    "static/js/2.53faad34.chunk.js": "/KanbanBoard/static/js/2.53faad34.chunk.js",
+    "static/js/2.53faad34.chunk.js.map": "/KanbanBoard/static/js/2.53faad34.chunk.js.map",
+    "static/js/3.0e4cdb98.chunk.js": "/KanbanBoard/static/js/3.0e4cdb98.chunk.js",
+    "static/js/3.0e4cdb98.chunk.js.map": "/KanbanBoard/static/js/3.0e4cdb98.chunk.js.map",
+    "index.html": "/KanbanBoard/index.html",
+    "precache-manifest.5bc8233f9011653ee80cc58a7056dbd4.js": "/KanbanBoard/precache-manifest.5bc8233f9011653ee80cc58a7056dbd4.js",
+    "service-worker.js": "/KanbanBoard/service-worker.js",
+    "static/css/main.0f819f07.chunk.css.map": "/KanbanBoard/static/css/main.0f819f07.chunk.css.map",
+    "static/media/Backlog.svg": "/KanbanBoard/static/media/Backlog.47973b09.svg",
+    "static/media/Cancelled.svg": "/KanbanBoard/static/media/Cancelled.15c84b14.svg",
+    "static/media/Display.svg": "/KanbanBoard/static/media/Display.b96d92a3.svg",
+    "static/media/Done.svg": "/KanbanBoard/static/media/Done.ee99e204.svg",
+    "static/media/No-priority.svg": "/KanbanBoard/static/media/No-priority.0d2cbadc.svg",
+    "static/media/To-do.svg": "/KanbanBoard/static/media/To-do.991aa8ff.svg",
+    "static/media/add.svg": "/KanbanBoard/static/media/add.a19048c9.svg",
+    "static/media/dot.svg": "/KanbanBoard/static/media/dot.6c272d9d.svg",
+    "static/media/down.svg": "/KanbanBoard/static/media/down.990a9026.svg",
+    "static/media/feature.png": "/KanbanBoard/static/media/feature.b773d848.png",
+    "static/media/high.svg": "/KanbanBoard/static/media/high.10cfcedf.svg",
+    "static/media/in-progress.svg": "/KanbanBoard/static/media/in-progress.6f7f6c8e.svg",
+    "static/media/low.svg": "/KanbanBoard/static/media/low.2ad281d3.svg",
+    "static/media/mediam.svg": "/KanbanBoard/static/media/mediam.861ebea5.svg",
+    "static/media/urgent.svg": "/KanbanBoard/static/media/urgent.4eca8404.svg"
+  }
+}
